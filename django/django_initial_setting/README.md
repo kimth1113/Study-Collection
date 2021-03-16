@@ -1,4 +1,4 @@
-### 장고 프로젝트 초기 설정
+# 장고 프로젝트 초기 설정
 
 ---
 
@@ -53,9 +53,9 @@
 
    ***tip.*** `pip install -r requirements.txt` : 패키지 목록 내 모든 패키지 설치
 
+<br>
 
-
-### 초기 파일 세팅
+# 초기 파일 세팅
 
 ---
 
@@ -94,7 +94,7 @@
    admin.site.register
    ```
 
-
+<br>
 
 ### 유용한 TIP 메모
 
@@ -139,20 +139,6 @@
   > `request.POST.get('content')` <= 여기 있는 `'content'`
 
 
-
----
-
-### 0316 오늘 새롭게 배운 것
-
-CRUD 중 Create와 Update를 views에서 함수 하나로 생성하는 법 (조건문 활용)
-
-Form의 양식을 Django를 활용하여 간편하게 만드는 것
-
-
-
-homework 2번
-
-POST는 DB조작을 할 수 있어서.. 
 
 
 

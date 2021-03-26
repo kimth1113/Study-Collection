@@ -24,7 +24,7 @@
 
    > 1. vim 공간 확인 명령어 `vi ~/.bash_profile`
    > 2. `i` 입력 후 `alias activate="source venv/Scripts/activate"` : 간소화 명령어 생성 
-   > 3. `esc `, `:wp`, `Enter` 차례로 입력 후 기존 터미널 복귀
+   > 3. `esc `, `:wq`, `Enter` 차례로 입력 후 기존 터미널 복귀
    > 4. 간소화 명령어 활성화 `source ~/.bash_profile`
 
 3. 비어있는 `venv`에 필요한 패키지 설치

@@ -25,6 +25,8 @@ Uniform Resource Identifier의 약어
 - URN(Uniform Resource Name)
   - 자원의 이름
 
+---
+
 >URL, URN 쉬운 설명 
 >
 >- URL 예: '강원도 원주시 늘품로 아이파크'

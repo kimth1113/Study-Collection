@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('3142.txt', 'r')
+sys.stdin = open('3142영준이와신비한뿔의숲.txt', 'r')
 
 def devAnimal(n, m):
     unicorn = 0

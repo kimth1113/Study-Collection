@@ -15,3 +15,8 @@ function solution(n, f1, f2) {
     }
     return word;
 }
+
+
+
+
+

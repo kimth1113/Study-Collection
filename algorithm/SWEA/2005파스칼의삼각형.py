@@ -1,6 +1,8 @@
 import sys
 sys.stdin = open('2005파스칼의삼각형.txt', 'r')
 
+# 2005 파스칼의 삼각형 D2
+
 def triangle(Arr, n):
     if len(Arr) <= n:
         print(*Arr)

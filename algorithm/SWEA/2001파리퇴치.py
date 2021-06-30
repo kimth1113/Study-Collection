@@ -2,6 +2,7 @@ import sys
 sys.stdin = open('2001파리퇴치.txt', 'r')
 
 # 2001 파리퇴치 D2
+
 def check(Arr, n, m):
     total = 0
     for i in range(n, n+M):

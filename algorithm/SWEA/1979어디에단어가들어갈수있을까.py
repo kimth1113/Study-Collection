@@ -13,4 +13,4 @@ for tc in range(1, TC+1):
     N, K = map(int, input().split())
     arr = [list(map(int, input().split())) for _ in range(N)]
 
-    print(arr, N, K, arr, N, K)
+    print(arr, N, K)

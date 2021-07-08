@@ -1,6 +1,8 @@
 import sys
 sys.stdin = open('1974스도쿠검증.txt', 'r')
 
+# 1974 스도쿠검증 D2
+
 def checkBox(Arr, I, J):
     oneToNine = []
     for n in range(I, I+3):
